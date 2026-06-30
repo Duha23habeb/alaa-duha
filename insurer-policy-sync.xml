@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<insurerPolicySync>
+  <policyRecord>
+    <policyNumber>POL-1001</policyNumber>
+    <premiumAmount>1500.00</premiumAmount>
+    <commissionRate>8.0</commissionRate>
+    <claimReference>CLM-5001</claimReference>
+  </policyRecord>
+  <policyRecord>
+    <policyNumber>POL-1002</policyNumber>
+    <premiumAmount>2300.00</premiumAmount>
+    <commissionRate>7.5</commissionRate>
+    <claimReference>CLM-5002</claimReference>
+  </policyRecord>
+</insurerPolicySync>
